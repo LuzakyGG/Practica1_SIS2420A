@@ -1,0 +1,14 @@
+C:\Users\Luzaky\source\repos\Ejercicio_1_SIS2420A\Ejercicio_1_SIS2420A\bin\Debug\net6.0\Ejercicio_1_SIS2420A.exe
+C:\Users\Luzaky\source\repos\Ejercicio_1_SIS2420A\Ejercicio_1_SIS2420A\bin\Debug\net6.0\Ejercicio_1_SIS2420A.deps.json
+C:\Users\Luzaky\source\repos\Ejercicio_1_SIS2420A\Ejercicio_1_SIS2420A\bin\Debug\net6.0\Ejercicio_1_SIS2420A.runtimeconfig.json
+C:\Users\Luzaky\source\repos\Ejercicio_1_SIS2420A\Ejercicio_1_SIS2420A\bin\Debug\net6.0\Ejercicio_1_SIS2420A.dll
+C:\Users\Luzaky\source\repos\Ejercicio_1_SIS2420A\Ejercicio_1_SIS2420A\bin\Debug\net6.0\Ejercicio_1_SIS2420A.pdb
+C:\Users\Luzaky\source\repos\Ejercicio_1_SIS2420A\Ejercicio_1_SIS2420A\obj\Debug\net6.0\Ejercicio_1_SIS2420A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luzaky\source\repos\Ejercicio_1_SIS2420A\Ejercicio_1_SIS2420A\obj\Debug\net6.0\Ejercicio_1_SIS2420A.AssemblyInfoInputs.cache
+C:\Users\Luzaky\source\repos\Ejercicio_1_SIS2420A\Ejercicio_1_SIS2420A\obj\Debug\net6.0\Ejercicio_1_SIS2420A.AssemblyInfo.cs
+C:\Users\Luzaky\source\repos\Ejercicio_1_SIS2420A\Ejercicio_1_SIS2420A\obj\Debug\net6.0\Ejercicio_1_SIS2420A.csproj.CoreCompileInputs.cache
+C:\Users\Luzaky\source\repos\Ejercicio_1_SIS2420A\Ejercicio_1_SIS2420A\obj\Debug\net6.0\Ejercicio_1_SIS2420A.dll
+C:\Users\Luzaky\source\repos\Ejercicio_1_SIS2420A\Ejercicio_1_SIS2420A\obj\Debug\net6.0\refint\Ejercicio_1_SIS2420A.dll
+C:\Users\Luzaky\source\repos\Ejercicio_1_SIS2420A\Ejercicio_1_SIS2420A\obj\Debug\net6.0\Ejercicio_1_SIS2420A.pdb
+C:\Users\Luzaky\source\repos\Ejercicio_1_SIS2420A\Ejercicio_1_SIS2420A\obj\Debug\net6.0\Ejercicio_1_SIS2420A.genruntimeconfig.cache
+C:\Users\Luzaky\source\repos\Ejercicio_1_SIS2420A\Ejercicio_1_SIS2420A\obj\Debug\net6.0\ref\Ejercicio_1_SIS2420A.dll
